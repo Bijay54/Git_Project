@@ -1,1 +1,1 @@
-This is a sample text file. I am learning GitHub.
+This is a sample text file. I am learning GitHub. GitHub is compulsory for developers.

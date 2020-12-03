@@ -1,2 +1,4 @@
 This is a sample text file. I am learning GitHub. GitHub is compulsory for developers.
 I am editing this new file.
+
+My name is Bijay Khatri.
